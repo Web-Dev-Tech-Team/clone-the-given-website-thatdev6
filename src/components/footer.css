@@ -1,0 +1,47 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: bisque;
+}
+
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bottom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left{
+    margin-right: 200px;
+}
+
+.b-left{
+    margin-right: 200px;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+h4{
+    color: black;
+    font-weight: 400;
+}
+
+.list-item{
+    
+    margin: 3px;
+    margin-top: 0px;
+    font-size: 14px;
+    text-decoration: none;
+    color: darkgray;
+}
+
